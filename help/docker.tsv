@@ -1,3 +1,5 @@
 docker ps	# informacje o dokerach
+docker logs &>	#docker logs containername >& ?? logs/myFile.log
 docker-compose ps	
 docker-compose pull --no	
+
