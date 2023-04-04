@@ -1,0 +1,2 @@
+sudo prime-select intel && sudo reboot new
+sudo prime-select nvidia && sudo reboot new

@@ -1,0 +1,4 @@
+tar tzf archive.tar.gz	# Pokazuje zawartosć arch 
+tar tzvf archive.tar.gz	# Pokazuje zawartość arch wraz z dodatkowymi informacjami
+tar -xvJf	# Rozpakowywuje arch typu xz
+tar -cvJf 	# Tworzy xz  tar -cvJf irma_counting_tcms.tar.xz irma_counting_tcms

@@ -1,0 +1,3 @@
+docker ps	# informacje o dokerach
+docker-compose ps	
+docker-compose pull --no	
